@@ -3,7 +3,7 @@
 This source code demonstrates how to send firebase cloud messaging notification using firebase functions on document changes in the firebase firestore.
 
 ## Important
-Give this repository a star if you found it useful :)
+Give this repository a star if you find it useful :)
 
 ## Usage
 
